@@ -1,0 +1,28 @@
+C:\Users\G\AppData\Local\Temporary Projects\LibraryChecker\bin\Debug\LibraryChecker.exe.config
+C:\Users\G\AppData\Local\Temporary Projects\LibraryChecker\bin\Debug\LibraryChecker.exe
+C:\Users\G\AppData\Local\Temporary Projects\LibraryChecker\bin\Debug\LibraryChecker.pdb
+C:\Users\G\AppData\Local\Temporary Projects\LibraryChecker\bin\Debug\LibraryChecker.xml
+C:\Users\G\AppData\Local\Temporary Projects\LibraryChecker\obj\Debug\LibraryChecker.vbprojResolveAssemblyReference.cache
+C:\Users\G\AppData\Local\Temporary Projects\LibraryChecker\obj\Debug\LibraryChecker.Form1.resources
+C:\Users\G\AppData\Local\Temporary Projects\LibraryChecker\obj\Debug\LibraryChecker.Resources.resources
+C:\Users\G\AppData\Local\Temporary Projects\LibraryChecker\obj\Debug\LibraryChecker.vbproj.GenerateResource.Cache
+C:\Users\G\AppData\Local\Temporary Projects\LibraryChecker\obj\Debug\LibraryChecker.exe
+C:\Users\G\AppData\Local\Temporary Projects\LibraryChecker\obj\Debug\LibraryChecker.xml
+C:\Users\G\AppData\Local\Temporary Projects\LibraryChecker\obj\Debug\LibraryChecker.pdb
+C:\Users\G\AppData\Local\Temporary Projects\LibraryChecker\obj\Debug\LibraryChecker.Form2.resources
+C:\Users\G\Documents\Visual Studio 2017\Projects\LibraryChecker\LibraryChecker\obj\Debug\LibraryChecker.Form1.resources
+C:\Users\G\Documents\Visual Studio 2017\Projects\LibraryChecker\LibraryChecker\obj\Debug\LibraryChecker.Form2.resources
+C:\Users\G\Documents\Visual Studio 2017\Projects\LibraryChecker\LibraryChecker\obj\Debug\LibraryChecker.Resources.resources
+C:\Users\G\Documents\Visual Studio 2017\Projects\LibraryChecker\LibraryChecker\obj\Debug\LibraryChecker.vbproj.GenerateResource.Cache
+C:\Users\G\Documents\Visual Studio 2017\Projects\LibraryChecker\LibraryChecker\bin\Debug\LibraryChecker.exe.config
+C:\Users\G\Documents\Visual Studio 2017\Projects\LibraryChecker\LibraryChecker\bin\Debug\LibraryChecker.exe
+C:\Users\G\Documents\Visual Studio 2017\Projects\LibraryChecker\LibraryChecker\bin\Debug\LibraryChecker.pdb
+C:\Users\G\Documents\Visual Studio 2017\Projects\LibraryChecker\LibraryChecker\bin\Debug\LibraryChecker.xml
+C:\Users\G\Documents\Visual Studio 2017\Projects\LibraryChecker\LibraryChecker\obj\Debug\LibraryChecker.exe
+C:\Users\G\Documents\Visual Studio 2017\Projects\LibraryChecker\LibraryChecker\obj\Debug\LibraryChecker.xml
+C:\Users\G\Documents\Visual Studio 2017\Projects\LibraryChecker\LibraryChecker\obj\Debug\LibraryChecker.pdb
+C:\Users\G\Documents\Visual Studio 2017\Projects\LibraryChecker\LibraryChecker\obj\Debug\LibraryChecker.vbprojResolveAssemblyReference.cache
+C:\Users\G\Documents\Visual Studio 2017\Projects\LibraryChecker\LibraryChecker\bin\Debug\LibraryChecker.exe.manifest
+C:\Users\G\Documents\Visual Studio 2017\Projects\LibraryChecker\LibraryChecker\bin\Debug\LibraryChecker.application
+C:\Users\G\Documents\Visual Studio 2017\Projects\LibraryChecker\LibraryChecker\obj\Debug\LibraryChecker.exe.manifest
+C:\Users\G\Documents\Visual Studio 2017\Projects\LibraryChecker\LibraryChecker\obj\Debug\LibraryChecker.application
